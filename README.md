@@ -1,5 +1,5 @@
 # Stickman
-Simple PC Game About a stickman and a vertical challenge
+A simple desktop PC Game About a stickman and a vertical challenge
 
 This simple game is incomplete but currently playable in the XOJO development enviroment.  XOJO (which should sill be called something along the lines of RealBASIC) is a great platform for rapid cross-platform application development and front-end gui simplification, with great syntax correction.  I am a fan of the language.
 
